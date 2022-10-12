@@ -1,0 +1,22 @@
+{
+  "name": "auth-with-pinia-state-vite",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "pinia": "^2.0.23",
+    "vee-validate": "^4.7.0",
+    "vue": "^3.2.37",
+    "vue-router": "^4.1.5",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.1.0",
+    "vite": "^3.1.0"
+  }
+}
